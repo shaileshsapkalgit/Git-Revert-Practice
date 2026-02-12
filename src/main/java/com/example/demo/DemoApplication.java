@@ -23,18 +23,3 @@ public class DemoApplication {
 8. git remote add origin https://github.com/shaileshsapkalgit/Git-Revert-Practice.git
 9. git push -u origin main
 * */
-
-
-
-/*
-last change revert karnyasathi
-> git reset --hard HEAD~1
-git push origin main --force
-
------------------------------
-2-3 commit maghe jaych asel tr.
-git reset --hard xx1  (he commit kelel disnar)
-git push origin main --force
-
----------------------
-*/
