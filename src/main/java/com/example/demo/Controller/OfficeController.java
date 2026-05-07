@@ -2,8 +2,9 @@ package com.example.demo.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+
 @Controller
-public class PracticeController {
+public class OfficeController {
     @GetMapping("/")
     public String viewHomePage() {
         return "home";
